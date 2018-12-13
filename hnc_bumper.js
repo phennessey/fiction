@@ -1,6 +1,7 @@
 jQuery(document).ready(function($) {
 
-  // test again
+  // test dsfglijsdlgkjdflk
+
   var url = "url(https://static1.squarespace.com/static/57ffd9078419c2478119849d/t/";
 
   var bumperBaseImg = [
